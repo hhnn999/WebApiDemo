@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "6.0.33"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/6.0.33": {
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "6.0.33.0",
+            "fileVersion": "6.0.3324.36105"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/6.0.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8oufYRCOtzo/sLFUQ5nzh/R9Qn026fyjc6vgdMMGMW3AHdWj0djbQeVZf0np8eGjihRDtfFG2F8ckTphkOBAzQ==",
+      "path": "microsoft.entityframeworkcore.abstractions/6.0.33",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.6.0.33.nupkg.sha512"
+    }
+  }
+}
